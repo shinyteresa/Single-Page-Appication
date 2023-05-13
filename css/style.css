@@ -233,6 +233,11 @@ body { background: #333; }
 }
 
 
+@media screen (max-width: 1200px) {
+    .container-xl {
+        width:100%;
+    }
+}
 /*** Section Title ***/
 
 .text-center p{
